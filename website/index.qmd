@@ -1,5 +1,23 @@
 ---
-title: "website"
+title: "Tinashe Chingozha"
+image: "images/avatar.jpg"
+about: 
+    template: trestles
+comments: false
 ---
 
-![SelfImage](images/test.jpg)
+:::{.column-page}
+
+## Bio
+
+lorem ipsum 
+lorem ipsum 
+
+<p></p>
+
+## Selected Projects
+
+#### Publications
+
+####  
+:::

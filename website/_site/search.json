@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "Tinashe Chingozha",
     "section": "",
-    "text": "SelfImage"
+    "text": "lorem ipsum lorem ipsum"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Tinashe Chingozha",
+    "section": "",
+    "text": "lorem ipsum lorem ipsum"
   }
 ]
