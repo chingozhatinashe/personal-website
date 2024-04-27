@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Tinashe Chingozha",
+    "section": "",
+    "text": "Papers\n\n\n\n\nPhd thesis[PDF]\n\n\nSummary Feedback stabilizing controllers are crucial in control engineering, yet much of the field’s focus is on how to design these controllers rather than on understanding when a system is stabilizable by feedback. Control Lyapunov functions (CLFs) offer a framework to assess stabilizability but can be complex to work with. This thesis explores stabilizability from a different angle, using “control system quotients,” a way to simplify and reduce control systems. The study reveals that if the quotient system is a linear controllable system, the original system can also be stabilizable if its zero dynamics are stable. The thesis presents a novel method for constructing zero dynamics without solving complicated partial differential equations (PDEs). For more general nonlinear systems, it introduces a new approach to create a CLF, involving solving a system of PDEs. The thesis then examines the conditions under which these PDEs are integrable, identifying factors in the structure of the original control system that might obstruct this method of constructing CLFs.\n\n\nMSc dissertation[PDF]\n\n\nSummaryThis dissertation develops robust control algorithms for quadrotor Unmanned Aerial Vehicles (UAVs), focusing on trajectory tracking in uncertain conditions. It presents a backstepping-based strategy with two sub-controllers: a translational controller and an attitude controller. The translational controller combines a nonlinear saturated approach with sliding mode techniques to achieve bounded error tracking despite actuator limitations. The attitude controller uses a modified backstepping method, offering adaptive solutions for parametric uncertainty and asymptotic tracking. This work contributes a comprehensive robust control framework for quadrotor UAVs, enhancing their resilience in challenging environments."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tinashe Chingozha",
+    "section": "",
+    "text": "I’m currently employed as a Senior Data Science Specialist at Opti-num Solutions Johannesburg. I got my PhD in Electrical Engineering from the University of the Witwatersrand in 2019 with a research focus in Control Theory. Since 2019 I have worked as a data scientist spending the first two years working in the FMCG space applying data science/machine learning techniques to supply chain modelling and optimisation. After which I moved to my I work as a consultant building and applying machine learning models in various industries such as mining, banking and telecommunications.\nYou can find my CV here, a list of some of my academic publications, a technical blog and miscellaneous musings.\n\n\n\n\n\n\n\nStabilizability preserving quotients of nonlinear systems.https://doi.org/10.1016/j.ifacol.2021.12.011\nAn Udwadia-Kalaba equation based active seat suspension controller for mining dump trucks.https://doi.org/10.1016/j.ifacol.2016.10.118\nEquivalence of multiformulated slip control for vehicular anti-lock braking system.https://doi.org/10.3182/20140824-6-ZA-1003.02479\nAdaptive sliding backstepping control of quadrotor UAV attitude.https://doi.org/10.3182/20140824-6-ZA-1003.01860\nHigh performance ash fusion temperature measurement.https://doi.org/10.1109/ICIEA.2013.6566579\nA low cost controller for a small scale helicopter.https://doi.org/10.1109/ICIEA.2013.6566409"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Tinashe Chingozha",
+    "section": "",
+    "text": "I’m currently employed as a Senior Data Science Specialist at Opti-num Solutions Johannesburg. I got my PhD in Electrical Engineering from the University of the Witwatersrand in 2019 with a research focus in Control Theory. Since 2019 I have worked as a data scientist spending the first two years working in the FMCG space applying data science/machine learning techniques to supply chain modelling and optimisation. After which I moved to my I work as a consultant building and applying machine learning models in various industries such as mining, banking and telecommunications.\nYou can find my CV here, a list of some of my academic publications, a technical blog and miscellaneous musings."
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Tinashe Chingozha",
+    "section": "",
+    "text": "Stabilizability preserving quotients of nonlinear systems.https://doi.org/10.1016/j.ifacol.2021.12.011\nAn Udwadia-Kalaba equation based active seat suspension controller for mining dump trucks.https://doi.org/10.1016/j.ifacol.2016.10.118\nEquivalence of multiformulated slip control for vehicular anti-lock braking system.https://doi.org/10.3182/20140824-6-ZA-1003.02479\nAdaptive sliding backstepping control of quadrotor UAV attitude.https://doi.org/10.3182/20140824-6-ZA-1003.01860\nHigh performance ash fusion temperature measurement.https://doi.org/10.1109/ICIEA.2013.6566579\nA low cost controller for a small scale helicopter.https://doi.org/10.1109/ICIEA.2013.6566409"
+  }
+]
