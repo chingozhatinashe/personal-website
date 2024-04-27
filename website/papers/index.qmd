@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>
+Papers
+</title>
+</head>
+<body>
+<h2>Phd thesis<a href="phd_thesis.pdf" target="blank">[PDF]</a></h2>
+<p><strong>Summary</strong> Feedback stabilizing controllers are crucial in control engineering, yet much of the field's focus is on how to design these controllers rather than on understanding when a system is stabilizable by feedback. Control Lyapunov functions (CLFs) offer a framework to assess stabilizability but can be complex to work with. This thesis explores stabilizability from a different angle, using "control system quotients," a way to simplify and reduce control systems. The study reveals that if the quotient system is a linear controllable system, the original system can also be stabilizable if its zero dynamics are stable. The thesis presents a novel method for constructing zero dynamics without solving complicated partial differential equations (PDEs). For more general nonlinear systems, it introduces a new approach to create a CLF, involving solving a system of PDEs. The thesis then examines the conditions under which these PDEs are integrable, identifying factors in the structure of the original control system that might obstruct this method of constructing CLFs.</p>
+
+<h2>MSc dissertation<a href="msc_thesis.pdf" target="blank">[PDF]</a></h2>
+<p><strong>Summary</strong>This dissertation develops robust control algorithms for quadrotor Unmanned Aerial Vehicles (UAVs), focusing on trajectory tracking in uncertain conditions. It presents a backstepping-based strategy with two sub-controllers: a translational controller and an attitude controller. The translational controller combines a nonlinear saturated approach with sliding mode techniques to achieve bounded error tracking despite actuator limitations. The attitude controller uses a modified backstepping method, offering adaptive solutions for parametric uncertainty and asymptotic tracking. This work contributes a comprehensive robust control framework for quadrotor UAVs, enhancing their resilience in challenging environments.</p>
+</body>
+</html>

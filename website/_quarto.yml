@@ -1,20 +1,26 @@
 project:
   type: website
+  resources: 
+    - CV.pdf
 
 website:
   title: "Tinashe Chingozha"
+  site-url: https://tinashe.chingozha.dev
+  twitter-card: 
+    creator: "@Chingozha_T"
   navbar:
     background: primary
     right:
-      - href: index.qmd
-        text: Home
-      - papers.qmd
-      - blog.qmd
-      - misc.qmd
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Papers"
+        href: papers
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Musings"
+        href: misc.qmd
   page-footer:
     left : Copyright 2024, Tinashe Chingozha
-
 format:
   html:
     theme: cosmo

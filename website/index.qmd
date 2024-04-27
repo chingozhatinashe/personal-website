@@ -2,22 +2,44 @@
 title: "Tinashe Chingozha"
 image: "images/avatar.jpg"
 about: 
-    template: trestles
+  template: trestles
+  links: 
+    - text: LinkedIn
+      url:  "https://www.linkedin.com/in/tinashe-chingozha/"
+    - text: GitHub
+      icon: github
+      url:  "https://github.com/chingozhatinashe"  
+    - text: Email
+      url:  "mailto:chingozhatinashe@gmail.com"  
+    - text: Blog
+      url:  "blog.qmd"
+    - text: CV
+      url:  "CV.pdf"
 comments: false
 ---
-
 :::{.column-page}
 
 ## Bio
+I'm currently employed as a Senior Data Science Specialist at Opti-num Solutions Johannesburg. I got my PhD in Electrical Engineering from the University of the Witwatersrand in 2019 with a research focus in Control Theory. Since 2019 I have worked as a data scientist spending the first two years working in the FMCG space applying data science/machine learning techniques to supply chain modelling and optimisation. After which I moved to my I work as a consultant building and applying machine learning models in various industries such as mining, banking and telecommunications.
 
-lorem ipsum 
-lorem ipsum 
-
+You can find my CV here, a list of some of my [academic publications](papers), a [technical blog](index.qmd) and [miscellaneous musings](misc.qmd).
 <p></p>
 
 ## Selected Projects
 
 #### Publications
+
+**Stabilizability preserving quotients of nonlinear systems.**[https://doi.org/10.1016/j.ifacol.2021.12.011](https://doi.org/10.1016/j.ifacol.2021.12.011)
+
+**An Udwadia-Kalaba equation based active seat suspension controller for mining dump trucks.**[https://doi.org/10.1016/j.ifacol.2016.10.118](https://doi.org/10.1016/j.ifacol.2016.10.118)
+
+**Equivalence of multiformulated slip control for vehicular anti-lock braking system.**[https://doi.org/10.3182/20140824-6-ZA-1003.02479](https://doi.org/10.3182/20140824-6-ZA-1003.02479)
+
+**Adaptive sliding backstepping control of quadrotor UAV attitude.**[https://doi.org/10.3182/20140824-6-ZA-1003.01860](https://doi.org/10.3182/20140824-6-ZA-1003.01860)
+
+**High performance ash fusion temperature measurement.**[https://doi.org/10.1109/ICIEA.2013.6566579](https://doi.org/10.1109/ICIEA.2013.6566579)
+
+**A low cost controller for a small scale helicopter.**[https://doi.org/10.1109/ICIEA.2013.6566409](https://doi.org/10.1109/ICIEA.2013.6566409)
 
 ####  
 :::

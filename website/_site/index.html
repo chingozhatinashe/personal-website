@@ -68,6 +68,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<meta name="twitter:title" content="Tinashe Chingozha">
+<meta name="twitter:image" content="https://tinashe.chingozha.dev/images/avatar.jpg">
+<meta name="twitter:creator" content="@Chingozha_T">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -92,7 +96,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./papers.html"> 
+    <a class="nav-link" href="./papers"> 
 <span class="menu-text">Papers</span></a>
   </li>  
   <li class="nav-item">
@@ -101,11 +105,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./misc.html"> 
-<span class="menu-text">Misc</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">Musings</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -131,14 +131,50 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
   </div>
 </header>
+    <div class="about-links">
+  <a href="https://www.linkedin.com/in/tinashe-chingozha/" class="about-link" rel="" target="">
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://github.com/chingozhatinashe" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
+  <a href="mailto:chingozhatinashe@gmail.com" class="about-link" rel="" target="">
+     <span class="about-link-text">Email</span>
+  </a>
+  <a href="/blog.html" class="about-link" rel="" target="">
+     <span class="about-link-text">Blog</span>
+  </a>
+  <a href="/CV.pdf" class="about-link" rel="" target="">
+     <span class="about-link-text">CV</span>
+  </a>
+</div>
   </div>
   <div class="about-contents page-columns page-full"><main class="content page-columns page-full" id="quarto-document-content">
-<section id="bio" class="level2 column-page">
+<div class="column-page">
+<section id="bio" class="level2">
 <h2 data-anchor-id="bio">Bio</h2>
-<p>lorem ipsum lorem ipsum</p>
+<p>I’m currently employed as a Senior Data Science Specialist at Opti-num Solutions Johannesburg. I got my PhD in Electrical Engineering from the University of the Witwatersrand in 2019 with a research focus in Control Theory. Since 2019 I have worked as a data scientist spending the first two years working in the FMCG space applying data science/machine learning techniques to supply chain modelling and optimisation. After which I moved to my I work as a consultant building and applying machine learning models in various industries such as mining, banking and telecommunications.</p>
+You can find my CV here, a list of some of my <a href="papers">academic publications</a>, a <a href="./index.html">technical blog</a> and <a href="./misc.html">miscellaneous musings</a>.
 <p>
 </p>
 </section>
+<section id="selected-projects" class="level2">
+<h2 data-anchor-id="selected-projects">Selected Projects</h2>
+<section id="publications" class="level4">
+<h4 data-anchor-id="publications">Publications</h4>
+<p><strong>Stabilizability preserving quotients of nonlinear systems.</strong><a href="https://doi.org/10.1016/j.ifacol.2021.12.011">https://doi.org/10.1016/j.ifacol.2021.12.011</a></p>
+<p><strong>An Udwadia-Kalaba equation based active seat suspension controller for mining dump trucks.</strong><a href="https://doi.org/10.1016/j.ifacol.2016.10.118">https://doi.org/10.1016/j.ifacol.2016.10.118</a></p>
+<p><strong>Equivalence of multiformulated slip control for vehicular anti-lock braking system.</strong><a href="https://doi.org/10.3182/20140824-6-ZA-1003.02479">https://doi.org/10.3182/20140824-6-ZA-1003.02479</a></p>
+<p><strong>Adaptive sliding backstepping control of quadrotor UAV attitude.</strong><a href="https://doi.org/10.3182/20140824-6-ZA-1003.01860">https://doi.org/10.3182/20140824-6-ZA-1003.01860</a></p>
+<p><strong>High performance ash fusion temperature measurement.</strong><a href="https://doi.org/10.1109/ICIEA.2013.6566579">https://doi.org/10.1109/ICIEA.2013.6566579</a></p>
+<p><strong>A low cost controller for a small scale helicopter.</strong><a href="https://doi.org/10.1109/ICIEA.2013.6566409">https://doi.org/10.1109/ICIEA.2013.6566409</a></p>
+</section>
+<section id="section" class="level4">
+<h4 data-anchor-id="section"></h4>
+</section>
+</section>
+</div>
 
 
 </main></div>
@@ -218,7 +254,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/tinashe\.chingozha\.dev");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
