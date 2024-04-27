@@ -1,1 +1,1 @@
-Sitemap: https://tinashe.chingozha.dev/sitemap.xml
+Sitemap: https://chingozhatinashe.github.io/personal-website/sitemap.xml
