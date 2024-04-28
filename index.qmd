@@ -22,7 +22,7 @@ comments: false
 ## Bio
 I'm currently employed as a Senior Data Science Specialist at Opti-num Solutions Johannesburg. I got my PhD in Electrical Engineering from the University of the Witwatersrand in 2019 with a research focus in Control Theory. Since 2019 I have worked as a data scientist spending the first two years working in the FMCG space applying data science/machine learning techniques to supply chain modelling and optimisation. After which I moved to my I work as a consultant building and applying machine learning models in various industries such as mining, banking and telecommunications.
 
-You can find my CV here, a list of some of my [academic publications](papers), a [technical blog](index.qmd) and [miscellaneous musings](misc.qmd).
+Here you can find my CV, a list of some of my [academic publications](papers), a [technical blog](index.qmd) and [miscellaneous musings](misc.qmd).
 <p></p>
 
 ## Selected Projects
